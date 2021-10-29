@@ -1,11 +1,2 @@
-hi
-good evng
-hw r u
-fngjker
-erijbg
-erkhf\gihigue
-wehfbiw
-ierrtg
-wfygq
-ewih
-
+#!/bin/sh
+echo "hello world"
